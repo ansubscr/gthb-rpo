@@ -1,3 +1,4 @@
 this line was modified by feature-2 branch
 f22 modified locally
 this line was added by feature-2 branch
+another line was added by feature-2 branch

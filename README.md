@@ -1,2 +1,2 @@
 # gthb-rpo
-edit-locally
+added line during merge-conflict resolution
